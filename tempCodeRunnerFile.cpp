@@ -1,0 +1,2 @@
+        string nama;
+        int NIM;
